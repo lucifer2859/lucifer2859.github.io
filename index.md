@@ -53,9 +53,9 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 - 华为上研新知技术沙龙系列活动：《脉冲神经网络与类脑强化学习》，2020年7月
 
-# 参与服务
+## 参与服务
 
-- **审稿人**：TJCD (2022)
+- 审稿人：TJCD (2022)
 
 ## 项目
 
