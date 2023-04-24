@@ -47,7 +47,11 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 ## 论文发表
 
-- **陈鼎**, 黄杨茹, 彭佩玺, 黄铁军, 田永鸿, [脉冲强化学习算法综述](), 计算机学报 2023
+- **陈鼎**，黄杨茹，彭佩玺，黄铁军，田永鸿，[脉冲强化学习算法综述]()，计算机学报 2023
+
+## 专利成果
+
+- 田永鸿，高文，**陈鼎**，邢培银，一种保护隐私的监控方法和系统，CN110087099A，2019
 
 ## 特邀报告
 
@@ -57,9 +61,14 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 - 审稿人：TJCD (2022)
 
-## 项目
+## 项目/标准
 
 - [SpikingJelly](https://github.com/fangwei123456/spikingjelly)：脉冲神经网络深度学习框架，开发者之一
+- 数字视网膜：端边云协同技术国际标准，参与者之一
+
+## 个人博客
+
+- [博客园](https://www.cnblogs.com/lucifer1997/)：截止2023年4月23日，已发布442篇随笔，包括技术交流、论文分享等，共收获34万阅读，积分全站排名3458
 
 ## 联系方式
 
