@@ -1,10 +1,10 @@
 # 陈鼎 - 简历
 
-[下载中文简历]()
+[下载中文简历](https://github.com/lucifer2859/lucifer2859.github.io/raw/main/cv_cn.pdf)
 
 我目前正在寻求工业界或学术界的职位，工作范围包括深度学习、脉冲神经网络、强化学习、神经人工智能。
 
-[Download the English version of CV]()
+[Download the English version of CV](https://github.com/lucifer2859/lucifer2859.github.io/raw/main/cv_en.pdf)
 
 I am seeking positions in industry or academia related to deep learning, spiking neural network, reinforcement learning, and NeuroAI.
 
