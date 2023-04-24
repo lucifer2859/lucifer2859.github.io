@@ -59,7 +59,7 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 ## 项目
 
-- [SpikingJelly](https://github.com/fangwei123456/spikingjelly)脉冲神经网络深度学习框架，开发者之一
+- [SpikingJelly](https://github.com/fangwei123456/spikingjelly)：脉冲神经网络深度学习框架，开发者之一
 
 ## 联系方式
 
