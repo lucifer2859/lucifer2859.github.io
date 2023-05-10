@@ -48,6 +48,7 @@ I am seeking positions in industry or academia related to deep learning, spiking
 ## 论文发表
 
 - **陈鼎**，黄杨茹，彭佩玺，黄铁军，田永鸿，[脉冲强化学习算法综述]()，计算机学报 2023
+- **Ding Chen**, Peixi Peng, Tiejun Huang, and Yonghong Tian, [Fully Spiking Actor Network with Intra-layer Connections for Reinforcement Learning](), IEEE Transactions on Neural Networks and Learning Systems (Second Review)
 
 ## 专利成果
 
