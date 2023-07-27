@@ -33,11 +33,11 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 - 2020.7 - 至今
 
-鹏城实验室，云脑研究所（脉冲强化学习）
+鹏城实验室，云脑研究所（脉冲强化学习，实验室导师为北大田永鸿教授）
 
 - 2018.11 - 2019.8
 
-鹏城实验室，云脑研究所（数字视网膜、联邦学习）
+鹏城实验室，云脑研究所（数字视网膜、联邦学习，实验室导师为北大田永鸿教授）
 
 ## 获奖
 
@@ -49,6 +49,7 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 - **陈鼎**，黄杨茹，彭佩玺，黄铁军，田永鸿，[脉冲强化学习算法综述]()，计算机学报 2023
 - **Ding Chen**, Peixi Peng, Tiejun Huang, and Yonghong Tian, [Fully Spiking Actor Network with Intra-layer Connections for Reinforcement Learning](), IEEE Transactions on Neural Networks and Learning Systems (Second Review)
+- Wei Fang, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, **Ding Chen**, Liwei Huang, Huihui Zhou, Guoqi Li, and Yonghong Tian, [SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence](), Science Advances (First Review)
 
 ## 专利成果
 
@@ -69,7 +70,7 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 ## 个人博客
 
-- [博客园](https://www.cnblogs.com/lucifer1997/)：截止2023年5月10日，已发布444篇随笔，包括技术交流、论文分享等，共收获34万阅读，积分全站排名3413
+- [博客园](https://www.cnblogs.com/lucifer1997/)：截止2023年7月27日，已发布452篇随笔，包括技术交流、论文分享等，共收获36万阅读，积分全站排名3233
 
 ## 联系方式
 
