@@ -1,4 +1,4 @@
-# 陈鼎 - 简历
+![image](https://github.com/lucifer2859/lucifer2859.github.io/assets/26899067/61aa3ea6-4f06-4c43-8bd2-0978aac9eb8d)# 陈鼎 - 简历
 
 [下载中文简历](https://github.com/lucifer2859/lucifer2859.github.io/raw/main/cv_cn.pdf)
 
@@ -10,7 +10,7 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 ## 简介
 
-**陈鼎**，上海交通大学计算机科学与工程系在读博士生（吴文俊博士精英班，北京大学联合培养），导师为[黄铁军教授](https://www.pkuml.org/staff/tjhuang.html)。于19年在上海交通大学计算机科学与工程系获得工学学士学位。目前研究方向聚焦于强化学习、脉冲神经网络、类脑智能等，对于探索机器人/自主控制的低能耗解决方案尤为感兴趣。对各类深度学习相关的方向也存在广泛的兴趣，如强化学习、联邦学习。
+**陈鼎**，上海交通大学计算机科学与工程系在读博士生（吴文俊博士精英班，北京大学联合培养），导师为[黄铁军教授](https://www.pkuml.org/staff/tjhuang.html)。于2019年在上海交通大学计算机科学与工程系获得工学学士学位。目前研究方向聚焦于强化学习、脉冲神经网络、类脑智能等，对于探索机器人/自主控制的低能耗解决方案尤为感兴趣。对各类深度学习相关的方向也存在广泛的兴趣，如强化学习、联邦学习。
 
 ## 研究兴趣
 
@@ -33,7 +33,7 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 - 2020.7 - 至今
 
-鹏城实验室，云脑研究所（脉冲强化学习，实验室导师为北大田永鸿教授）
+鹏城实验室，云脑研究所（类脑智能、脉冲强化学习，实验室导师为北大田永鸿教授）
 
 - 2018.11 - 2019.8
 
@@ -49,7 +49,7 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 - **陈鼎**，黄杨茹，彭佩玺，黄铁军，田永鸿，[脉冲强化学习算法综述]()，计算机学报 2023
 - **Ding Chen**, Peixi Peng, Tiejun Huang, and Yonghong Tian, [Fully Spiking Actor Network with Intra-layer Connections for Reinforcement Learning](), IEEE Transactions on Neural Networks and Learning Systems (Second Review)
-- Wei Fang, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, **Ding Chen**, Liwei Huang, Huihui Zhou, Guoqi Li, and Yonghong Tian, [SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence](), Science Advances (First Review)
+- Wei Fang, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, **Ding Chen**, Liwei Huang, Huihui Zhou, Guoqi Li, and Yonghong Tian, [SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence](), Science Advances (Second Review)
 
 ## 专利成果
 
@@ -65,12 +65,12 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 ## 项目/标准
 
-- [SpikingJelly](https://github.com/fangwei123456/spikingjelly)：脉冲神经网络深度学习框架，开发者之一
-- 数字视网膜：端边云协同技术国际标准，参与者之一
+- [SpikingJelly](https://github.com/fangwei123456/spikingjelly)：脉冲神经网络深度学习框架，开发者（负责脉冲强化学习算法以及应用的研究）
+- 数字视网膜：端边云协同技术国际标准，参与者（负责系统部署与维护以及隐私保护的算法研究）
 
 ## 个人博客
 
-- [博客园](https://www.cnblogs.com/lucifer1997/)：截止2023年7月27日，已发布452篇随笔，包括技术交流、论文分享等，共收获36万阅读，积分全站排名3233
+- [博客园](https://www.cnblogs.com/lucifer1997/)：截止2023年8月29日，已发布453篇随笔，包括技术交流、论文分享等，共收获36万阅读，积分全站排名3194
 
 ## 联系方式
 
