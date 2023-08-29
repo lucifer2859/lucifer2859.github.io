@@ -1,4 +1,4 @@
-![image](https://github.com/lucifer2859/lucifer2859.github.io/assets/26899067/61aa3ea6-4f06-4c43-8bd2-0978aac9eb8d)# 陈鼎 - 简历
+# 陈鼎 - 简历
 
 [下载中文简历](https://github.com/lucifer2859/lucifer2859.github.io/raw/main/cv_cn.pdf)
 
