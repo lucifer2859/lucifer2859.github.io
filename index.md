@@ -61,8 +61,8 @@ I am seeking positions in industry or academia related to deep learning, spiking
 ## 论文发表
 
 - **陈鼎**，黄杨茹，彭佩玺，黄铁军，田永鸿，[脉冲强化学习算法综述]()，计算机学报 2023
-- - Wei Fang, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, **Ding Chen**, Liwei Huang, Huihui Zhou, Guoqi Li, and Yonghong Tian, [SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence](), Science Advances 2023
-- - Wei Fang, Zhaofei Yu, Zhaokun Zhou, **Ding Chen**, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://arxiv.org/abs/2304.12760), NeurIPS 2023
+- Wei Fang, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, **Ding Chen**, Liwei Huang, Huihui Zhou, Guoqi Li, and Yonghong Tian, [SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence](), Science Advances 2023
+- Wei Fang, Zhaofei Yu, Zhaokun Zhou, **Ding Chen**, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://arxiv.org/abs/2304.12760), NeurIPS 2023
 - **Ding Chen**, Peixi Peng, Tiejun Huang, and Yonghong Tian, [Fully Spiking Actor Network with Intra-layer Connections for Reinforcement Learning](), IEEE Transactions on Neural Networks and Learning Systems (Second Review)
 
 ## 专利成果
@@ -80,7 +80,7 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 ## 个人博客
 
-- [博客园](https://www.cnblogs.com/lucifer1997/)：截止2023年8月29日，已发布453篇随笔，包括技术交流、论文分享等，共收获36万阅读，积分全站排名3194
+- [博客园](https://www.cnblogs.com/lucifer1997/)：截止2023年9月22日，已发布458篇随笔，包括技术交流、论文分享等，共收获37万阅读，积分全站排名3145
 
 ## 联系方式
 
