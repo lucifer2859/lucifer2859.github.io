@@ -63,7 +63,7 @@ I am seeking positions in industry or academia related to deep learning, spiking
 - **陈鼎**，黄杨茹，彭佩玺，黄铁军，田永鸿，[脉冲强化学习算法综述](http://cjc.ict.ac.cn/online/onlinepaper/cd-2023928110928.pdf)，计算机学报 2023
 - Wei Fang, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, **Ding Chen**, Liwei Huang, Huihui Zhou, Guoqi Li, and Yonghong Tian, [SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence](https://www.science.org/doi/10.1126/sciadv.adi1480), Science Advances 2023
 - Wei Fang, Zhaofei Yu, Zhaokun Zhou, **Ding Chen**, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://arxiv.org/abs/2304.12760), NeurIPS 2023
-- **Ding Chen**, Peixi Peng, Tiejun Huang, and Yonghong Tian, [Fully Spiking Actor Network with Intra-layer Connections for Reinforcement Learning](), IEEE Transactions on Neural Networks and Learning Systems 2023
+- **Ding Chen**, Peixi Peng, Tiejun Huang, and Yonghong Tian, [Fully Spiking Actor Network with Intralayer Connections for Reinforcement Learning](https://ieeexplore.ieee.org/document/10423179), IEEE Transactions on Neural Networks and Learning Systems 2023
 
 ## 专利成果
 
