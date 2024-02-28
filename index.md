@@ -80,7 +80,7 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 ## 个人博客
 
-- [博客园](https://www.cnblogs.com/lucifer1997/)：截止2023年9月22日，已发布458篇随笔，包括技术交流、论文分享等，共收获37万阅读，积分全站排名3145
+- [博客园](https://www.cnblogs.com/lucifer1997/)：截止2024年2月28日，已发布464篇随笔，包括技术交流、论文分享等，共收获40万阅读，积分全站排名2901
 
 ## 联系方式
 
