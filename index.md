@@ -43,7 +43,7 @@ I am seeking positions in industry or academia related to deep learning, spiking
 
 - 2020.7 - 至今
 
-“鹏城云脑”网络智能重大科技基础设施：负责开源深度脉冲神经网络框架[SpikingJelly](https://github.com/fangwei123456/spikingjelly)的开发与算法研究
+参与“鹏城云脑”网络智能重大科技基础设施项目，负责开源深度脉冲神经网络框架[SpikingJelly](https://github.com/fangwei123456/spikingjelly)的开发与对应强化学习算法研究
 
 - 2018.10 - 2022.8
 
